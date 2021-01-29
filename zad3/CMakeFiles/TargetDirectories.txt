@@ -1,0 +1,4 @@
+/Users/Jonasz/dev/Uczelnia/Srodowisko/kolokwium_cmake/zad3/CMakeFiles/rebuild_cache.dir
+/Users/Jonasz/dev/Uczelnia/Srodowisko/kolokwium_cmake/zad3/CMakeFiles/edit_cache.dir
+/Users/Jonasz/dev/Uczelnia/Srodowisko/kolokwium_cmake/zad3/CMakeFiles/myProgram.dir
+/Users/Jonasz/dev/Uczelnia/Srodowisko/kolokwium_cmake/zad3/CMakeFiles/Student.dir

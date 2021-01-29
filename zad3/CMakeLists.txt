@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.10)
+project(myProgram)
+set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY "lib")
+include_directories(include)
+add_library(Student STATIC src/Student.cpp)
+link_directories(/Users/Jonasz/dev/Uczelnia/Srodowisko/kolokwium_cmake/zad3/bin)
+add_executable(myProgram src/libtest.cpp)
+target_link_libraries(myProgram libTest.a)

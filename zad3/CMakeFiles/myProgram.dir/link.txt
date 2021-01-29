@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/myProgram.dir/src/libtest.cpp.o -o myProgram   -L/Users/Jonasz/dev/Uczelnia/Srodowisko/kolokwium_cmake/zad3/bin  -Wl,-rpath,/Users/Jonasz/dev/Uczelnia/Srodowisko/kolokwium_cmake/zad3/bin -lTest 
