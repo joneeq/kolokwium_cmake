@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Jonasz/dev/Uczelnia/Srodowisko/kolokwium_cmake/zad2/myProgram/address.cpp
+string
+-
+
+/Users/Jonasz/dev/Uczelnia/Srodowisko/kolokwium_cmake/zad2/myProgram/address.h
+stdio.h
+-
+
+/Users/Jonasz/dev/Uczelnia/Srodowisko/kolokwium_cmake/zad2/myProgram/employee.cpp
+address.h
+/Users/Jonasz/dev/Uczelnia/Srodowisko/kolokwium_cmake/zad2/myProgram/address.h
+
+/Users/Jonasz/dev/Uczelnia/Srodowisko/kolokwium_cmake/zad2/myProgram/employee.h
+
+/Users/Jonasz/dev/Uczelnia/Srodowisko/kolokwium_cmake/zad2/myProgram/main.cpp
+employee.h
+/Users/Jonasz/dev/Uczelnia/Srodowisko/kolokwium_cmake/zad2/myProgram/employee.h
+address.h
+/Users/Jonasz/dev/Uczelnia/Srodowisko/kolokwium_cmake/zad2/myProgram/address.h
+
